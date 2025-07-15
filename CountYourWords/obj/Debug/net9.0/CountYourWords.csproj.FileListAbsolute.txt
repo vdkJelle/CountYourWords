@@ -1,0 +1,14 @@
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\bin\Debug\net9.0\CountYourWords.exe
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\bin\Debug\net9.0\CountYourWords.deps.json
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\bin\Debug\net9.0\CountYourWords.runtimeconfig.json
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\bin\Debug\net9.0\CountYourWords.dll
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\bin\Debug\net9.0\CountYourWords.pdb
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\CountYourWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\CountYourWords.AssemblyInfoInputs.cache
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\CountYourWords.AssemblyInfo.cs
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\CountYourWords.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\CountYourWords.dll
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\refint\CountYourWords.dll
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\CountYourWords.pdb
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\CountYourWords.genruntimeconfig.cache
+C:\Users\Jelle\source\repos\CountYourWords_BasicFit_Technical\CountYourWords_BasicFit_Technical\obj\Debug\net9.0\ref\CountYourWords.dll
