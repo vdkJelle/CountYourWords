@@ -1,4 +1,4 @@
-My solution for a CountYourWords assignment, where the subject was described as follows:
+##My solution for a CountYourWords assignment, where the subject was described as follows:
 
 You are writing the software or script for CountYourWords, a word processing util that is capable of counting words in a text DOCUMENT. The document is basically a text file that needs to be parsed. The following remarks below apply:
 - Numbers in the document are ignored and are not processed
